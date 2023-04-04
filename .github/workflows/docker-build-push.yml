@@ -1,4 +1,4 @@
-GitHub action: yaml file:
+#GitHub action: yaml file:
 
 name: Build and Push Docker Image
 on:
